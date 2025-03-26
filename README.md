@@ -24,7 +24,7 @@
 🌎 **Blog**: [기술 블로그](https://jabchae4919.tistory.com/)  
 
 ## 나성채의 GitHub Stats 
-![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=당신아이디&show_icons=true&theme=radical)
+![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanJab&show_icons=true&theme=radical)
 
 🔨 **현재 작업 중**:  
 - [x] 구르기 네트워크 동기화  
