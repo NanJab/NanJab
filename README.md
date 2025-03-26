@@ -13,7 +13,7 @@
 | 프로젝트 | 설명 |  
 |----------|------|  
 | [RPG Adventure](https://plum-tarsier-413.notion.site/169e3fef2695809fb075d53fc3534c1a) | 장비/퀘스트 시스템 구현 |  
-| [테트리스 클론](https://plum-tarsier-413.notion.site/169e3fef2695809fb075d53fc3534c1a) | DirectX로 제작한 클래식 게임 |  
+| [테트리스](https://plum-tarsier-413.notion.site/169e3fef2695809fb075d53fc3534c1a) | DirectX로 제작한 클래식 게임 |  
 
 ## 📚 기술 스택  
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity)  
