@@ -63,6 +63,7 @@
 ## 📬 연락처  
 ✉️ **Email**: nsc6673@naver.com  
 🌎 **Blog**: [기술 블로그](https://jabchae4919.tistory.com/)  
+🔗 **포트폴리오**: https://plum-tarsier-413.notion.site/169e3fef2695809fb075d53fc3534c1a
 
 ## 나성채의 GitHub Stats 
 ![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanJab&show_icons=true&theme=radical)
