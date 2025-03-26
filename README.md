@@ -18,6 +18,7 @@
 ## 📚 기술 스택  
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity)  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)  
+![C/C++](https://img.shields.io/badge/C%23-239120?logo=cpp)  
 
 ## 📬 연락처  
 ✉️ **Email**: nsc6673@naver.com  
