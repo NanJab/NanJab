@@ -16,9 +16,14 @@
 | [테트리스](https://plum-tarsier-413.notion.site/169e3fef2695809fb075d53fc3534c1a) | DirectX로 제작한 클래식 게임 |  
 
 ## 📚 기술 스택  
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity)  
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp)  
-![C/C++](https://img.shields.io/badge/C%23-239120?logo=cpp)  
+
+### 프로그래밍 언어  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)  
+
+### 게임 엔진  
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity)  
 
 ## 📬 연락처  
 ✉️ **Email**: nsc6673@naver.com  
