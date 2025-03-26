@@ -1,7 +1,7 @@
 # 👋 안녕하세요, 나성채입니다!  
 
 <div align="center">
-  <img src="https://via.placeholder.com/500x200?text=Welcome+to+My+Profile" width="70%">
+  <img src="나성채 클라이언트 프로그래머.png" width="70%">
 </div>
 
 ## 🚀 저는 누구인가요?  
