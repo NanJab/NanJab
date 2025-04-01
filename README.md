@@ -69,5 +69,5 @@
 ![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanJab&show_icons=true&theme=radical)
 
 🔨 **현재 작업 중**:  
-- [x] 구르기 네트워크 동기화  
-- [ ] 총알 네트워크 동기화 
+- [x] 기절 구현
+- [ ] 기본 UI 구현 중 (체력, 스태미나나) 
