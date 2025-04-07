@@ -69,5 +69,5 @@
 ![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanJab&show_icons=true&theme=radical)
 
 🔨 **현재 작업 중**:  
-- [x] 체력 UI
-- [ ] 스태미나 UI 및 인벤토리리
+- [x] 스태미나 UI 및 기능
+- [ ] 인벤토리
