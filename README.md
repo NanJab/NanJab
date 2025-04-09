@@ -69,5 +69,5 @@
 ![나성채의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=NanJab&show_icons=true&theme=radical)
 
 🔨 **현재 작업 중**:  
-- [x] 스태미나 UI 및 기능
-- [ ] 인벤토리
+- [x] 인벤토리 UI 및 드래그&드랍
+- [ ] 인벤토리 마우스 휠 슬롯 강조조
